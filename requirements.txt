@@ -1,0 +1,6 @@
+openai
+google-api-python-client
+python-dotenv
+pydantic
+streamlit
+fpdf
