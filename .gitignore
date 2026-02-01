@@ -1,2 +1,9 @@
+# Python bytecode
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments (important for your AI projects!)
 .env
-__pycache
+venv/
+env/
